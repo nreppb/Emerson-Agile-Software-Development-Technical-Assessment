@@ -8,13 +8,15 @@ This website was created as a take home assignment for the Emerson Agile Softwar
 Features
 ----------
 
-I was given the task to create a web application where a user can search by city name, zip code, or geo location. I chose to have the user search by city name, so the user is able to search by city name or city name and the country code with a comma and a space after the city name. For search examples, please see below:
+I was given the task to create a web application where a user can search by city name, zip code, or geo location to find the current weather conditions of that city. I chose to have the user search by city name, so the user is able to search by city name or city name and the country code with a comma and a space after the city name. For search examples, please see below:
 
 Olivette
 
 or 
 
 Olivette, USA
+
+The website can be accessed by going to https://nreppb.github.io/Emerson-Agile-Software-Development-Technical-Assessment/
 
 How I plan to improve the application
 ---------------------------------------------
