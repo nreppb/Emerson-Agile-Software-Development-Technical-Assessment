@@ -16,7 +16,7 @@ or
 
 Olivette, USA
 
-What I plan to do to improve the application
+How I plan to improve the application
 ---------------------------------------------
 
 - Add an alert to inform users of when they search for a city name that is not valid, pulling from the 404 error that gets sent to the console.
